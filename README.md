@@ -1,9 +1,7 @@
+![](zbox-logo.svg)
 # zbox
 
-A very minimal terminal UI library inspired by termbox. This exists primarily
-as a UI library for a separate text editor project.
-
-
+A very minimal terminal UI library inspired by termbox.
 
 ### Usage
 see [examples](examples) for sample usage
